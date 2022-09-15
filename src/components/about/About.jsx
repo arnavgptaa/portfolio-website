@@ -22,20 +22,26 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
 
+            <a href="#experience">
             <article className="about__card">
               <MdOutlineWork className="about__icon" size={27} />
               <h5>Work <br /> Experience</h5>
             </article>
+            </a>
 
+            <a href="#experience">
             <article className="about__card">
               <TiGroup className="about__icon" size={28} />
               <h5>Volunteer <br /> Experience</h5>
             </article>
+            </a>
 
+            <a href="#portfolio">
             <article className="about__card">
               <MdOutlineWeb className="about__icon" size={28} />
               <h5>Projects <br /> Undertaken</h5>
             </article>
+            </a>
           </div>
 
           

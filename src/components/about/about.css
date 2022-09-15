@@ -66,7 +66,7 @@
   text-align: justify; 
 }
 
-/* MEDIA QUERIES FOR MEDIUM DEVICES */
+/* ====================== Media Query for Medium Devices ====================== */
 
 @media screen and (max-width: 1024px) {
   .about__container {
@@ -83,7 +83,7 @@
   }
 }
 
-/*  MEDIA QUERIES FOR SMALL DEVICES */
+/* ====================== Media Query for Small Devices ====================== */
 
 @media screen and (max-width: 600px) {
   .about__cards {
